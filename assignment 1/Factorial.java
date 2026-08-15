@@ -1,4 +1,4 @@
-public class Q3_Factorial {
+public class Factorial {
     public static void main(String[] args){
         int f = 1 ; 
         int n = 5 ; 

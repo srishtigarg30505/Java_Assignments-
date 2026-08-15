@@ -1,4 +1,4 @@
-public class Q8_ReverseNumber {
+public class ReverseNumber {
     public static void main(String[] args){
         int a = 59;
         int rem = a % 10 ;

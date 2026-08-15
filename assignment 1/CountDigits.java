@@ -1,4 +1,4 @@
-public class Q7_CountDigits {
+public class CountDigits {
     public static void main(String[] args){
         int num = 12345;
         int count = 0;

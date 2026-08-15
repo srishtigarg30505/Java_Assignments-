@@ -1,4 +1,4 @@
-public class Q9_Power {
+public class Power {
     public static void main(String[] args){
         int base = 2;
         int exp = 3;
