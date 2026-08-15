@@ -1,4 +1,4 @@
-public class LCM {
+public class Q6_LCM {
     public static void main(String[] args){
         int a = 6;
         int b = 3;

@@ -1,4 +1,4 @@
-public class GCD {
+public class Q5_GCD {
     public static void main(String[] args){
         int a = 6;
         int b = 3; 

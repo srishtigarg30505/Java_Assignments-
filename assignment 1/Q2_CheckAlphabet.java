@@ -1,4 +1,4 @@
-public class CheckAlphabet {
+public class Q2_CheckAlphabet {
     public static void main(String[] args){
      char ch = 'B' ;
      if((ch>='A' && ch<='Z') || (ch >='a' && ch<='z')){

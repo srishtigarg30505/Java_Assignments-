@@ -1,4 +1,4 @@
-public class Fibonacci {
+public class Q4_Fibonacci {
     public static void main(String[] args){
         int a = 0 ; 
         int b = 1 ;

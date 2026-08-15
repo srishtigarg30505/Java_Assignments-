@@ -1,4 +1,4 @@
-public class Palindrome {
+public class Q10_Palindrome {
     public static void main(String[] args){
         int num = 121;
         int originalNum = num;
